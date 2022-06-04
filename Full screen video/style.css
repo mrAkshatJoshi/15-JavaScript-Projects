@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#btn{
+    width: 200px;
+    padding: 20px;
+    font-size: 25px;
+    /* border-radius: 50%;//oval shaped button */
+    border-radius: 50px;/*corners cut square shapped button*/ 
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    top: 10%;
+    left: 42%;
+}
+img{
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    box-shadow: 7px 7px 2px rgb(0, 0, 0);
+}
+q{
+    position: absolute;
+    bottom: 75px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(230, 98, 98);
+}
