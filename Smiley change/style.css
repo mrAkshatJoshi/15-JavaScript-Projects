@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    position: absolute;
+    top: 100px;
+    left: 450px;
+}
+.fa{
+    font-size: 500px;
+    cursor: pointer;
+    color: yellow;
+}
